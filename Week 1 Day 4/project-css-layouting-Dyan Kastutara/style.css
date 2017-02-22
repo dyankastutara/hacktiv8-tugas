@@ -1,0 +1,94 @@
+body{
+	background-image: url("img/sample-pattern.png");
+	width: 100%;
+	font-family: Georgia, Times, serif;
+	background-repeat: repeat;
+}
+
+header{
+	background-color: #FFFFFF;
+	border-bottom: 1px solid #466995;
+	width: 100%;
+	position:fixed;
+	top:0px;
+	left:0px;
+	z-index:1000;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: : 5px;
+}
+nav{
+	text-align:right;
+	position:relative;
+	padding-right: 20px;
+}
+
+ul {
+  margin: 10px auto;
+  text-align: right;
+}
+
+li {
+  display: inline-block;
+  font-family: 'Oswald', sans-serif;
+  font-size: 12px;
+  text-align: right;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 0 5px;
+
+}
+
+#logo {
+	position:absolute;
+}
+
+
+section{
+	margin: 120px auto;
+	text-align: center;
+	width:60%;
+	font-family: Georgia;
+}
+article{
+	border-bottom:1px solid;
+	background-color: #FFFFFF;
+	padding: 5 20 5 20;
+}
+
+#article-list{
+	font-family:times;
+}
+
+p{
+	text-align: left;
+	padding: 0 5 0 5;
+}
+
+h1{
+  font-weight: bold;
+}
+
+h3{
+	text-align: left;
+	padding-left:5px;
+}
+
+footer{
+	padding: 5 0 5 0;
+	width: 100%;
+	position: relative;
+	background-color: #000000;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align: center;
+}
+a {
+  color: #4078c0;
+  text-decoration: none;
+  cursor:progress;
+}
+
+a:hover {
+  color:red;
+}
