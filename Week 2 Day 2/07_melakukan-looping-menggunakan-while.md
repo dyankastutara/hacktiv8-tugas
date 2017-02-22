@@ -1,5 +1,5 @@
 # Melakukan Looping Menggunakan While
-
+```javascript
 var i=1;
 while (i<=20)
 {
@@ -16,3 +16,5 @@ console.log(i+' - I will become fullstack developer');
 }
 i=i-1;
 }
+```
+[JSBIN](http://jsbin.com/hinaxam/1/edit?js,console)
