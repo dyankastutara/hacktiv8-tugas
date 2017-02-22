@@ -1,6 +1,7 @@
 # Mengenal Penggunaan Function
 
 ## Tugas 1
+```javascript
 function shoutOut(){
 return "Halo Function!"
 }
